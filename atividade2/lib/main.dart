@@ -35,7 +35,7 @@ enum Genero { masculino, feminino }
 
 class _MyHomePageState extends State<MyHomePage> {
 
-  // Variaveis de estado
+  // Variaveis de estado   
   bool mostrarSenha = false;
 
   Genero? generoSelecionado;
